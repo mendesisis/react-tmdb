@@ -42,3 +42,11 @@ export const Movie = styled.li`
         transform: scale(1.1);
     }
 `
+export const Button =styled.button `
+  align-items: center
+  width: 50px;
+  border-radius: 1rem;
+  margin-bottom: 2rem;
+  height: 20px;
+ 
+`
